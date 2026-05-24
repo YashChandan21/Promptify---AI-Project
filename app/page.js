@@ -16,9 +16,10 @@ export default function Home() {
         <Image
           src="/images/PromptImg.png"
           alt="Prompt Generator"
-          width={500}
-          height={120}
-          className="rounded-xl"
+  width={700}
+  height={500}
+  className="w-full h-64 object-fill"
+          priority
         />
       </div>
 

@@ -48,7 +48,7 @@ export default function PrompyForm({ setResult }) {
 
         {/* Textarea */}
         <textarea
-          className="w-full h-40 bg-gray-800 border border-gray-700 rounded-2xl p-5 text-white
+          className="w-full h-18 bg-gray-800 border border-gray-700 rounded-2xl p-5 text-white
           placeholder:text-gray-400 
           resize-none outline-none focus:ring-2 focus:ring-blue-500
           transition-all duration-300"
